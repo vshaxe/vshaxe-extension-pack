@@ -13,5 +13,6 @@ Includes the most important extensions to get you started with Haxe development 
 
 Here are some other VSCode extensions that support Haxe, but are not included in this pack:
 
+- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
 - [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex)
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
