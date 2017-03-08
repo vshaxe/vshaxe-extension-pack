@@ -9,10 +9,4 @@ Includes the most important extensions to get you started with Haxe development 
 | [codedox](https://marketplace.visualstudio.com/items?itemName=wiggin77.codedox) | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/wiggin77.codedox.svg)](https://marketplace.visualstudio.com/items?itemName=wiggin77.codedox) [![Installs](https://vsmarketplacebadge.apphb.com/installs/wiggin77.codedox.svg)](https://marketplace.visualstudio.com/items?itemName=wiggin77.codedox) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/wiggin77.codedox.svg)](https://marketplace.visualstudio.com/items?itemName=wiggin77.codedox) | Doc comment generation |
 
 
-### Other Extensions with Haxe support
-
-Here are some other VSCode extensions that support Haxe, but are not included in this pack:
-
-- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
-- [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex)
-- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+You can find a list of other useful extensions [here](https://github.com/vshaxe/vshaxe/wiki/Other-Extensions).
