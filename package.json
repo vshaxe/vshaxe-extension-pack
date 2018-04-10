@@ -20,10 +20,11 @@
         "haxe",
         "flash"
     ],
-    "extensionDependencies": [ 
+    "extensionDependencies": [
         "nadako.vshaxe",
         "vshaxe.haxe-debug",
-        "wiggin77.codedox"
+        "wiggin77.codedox",
+        "HaxeFoundation.haxe-hl"
     ],
     "repository": {
         "type": "git",
