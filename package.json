@@ -1,37 +1,37 @@
 {
-    "name": "haxe-extension-pack",
-    "displayName": "Haxe Extension Pack",
-    "description": "Everything you need for Haxe development",
-    "version": "1.3.0",
-    "publisher": "vshaxe",
-    "license": "MIT",
-    "engines": {
-        "vscode": "^1.26.0"
-    },
-    "icon": "icon.png",
-    "categories": [
-        "Extension Packs"
-    ],
-    "galleryBanner": {
-        "theme": "dark",
-        "color": "#A84B38"
-    },
-    "keywords": [
-        "haxe",
-        "flash"
-    ],
-    "extensionPack": [
-        "nadako.vshaxe",
-        "vshaxe.haxe-debug",
-        "vshaxe.hxcpp-debugger",
-        "wiggin77.codedox",
-        "HaxeFoundation.haxe-hl"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/vshaxe/vshaxe-extension-pack.git"
-    },
-    "bugs": {
-        "url": "https://github.com/vshaxe/vshaxe-extension-pack/issues"
-    }
+	"name": "haxe-extension-pack",
+	"displayName": "Haxe Extension Pack",
+	"description": "Everything you need for Haxe development",
+	"version": "1.3.0",
+	"publisher": "vshaxe",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.26.0"
+	},
+	"icon": "icon.png",
+	"categories": [
+		"Extension Packs"
+	],
+	"galleryBanner": {
+		"theme": "dark",
+		"color": "#A84B38"
+	},
+	"keywords": [
+		"haxe",
+		"flash"
+	],
+	"extensionPack": [
+		"nadako.vshaxe",
+		"vshaxe.haxe-debug",
+		"vshaxe.hxcpp-debugger",
+		"wiggin77.codedox",
+		"HaxeFoundation.haxe-hl"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vshaxe/vshaxe-extension-pack.git"
+	},
+	"bugs": {
+		"url": "https://github.com/vshaxe/vshaxe-extension-pack/issues"
+	}
 }
