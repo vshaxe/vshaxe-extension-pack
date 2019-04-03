@@ -33,5 +33,10 @@
 	},
 	"bugs": {
 		"url": "https://github.com/vshaxe/vshaxe-extension-pack/issues"
+	},
+	"__metadata": {
+		"id": "5ee27482-6e3d-40c8-85e2-0df827a5fbf4",
+		"publisherDisplayName": "vshaxe",
+		"publisherId": "bdf58939-bf37-40d4-9543-90fcc14fd490"
 	}
 }
